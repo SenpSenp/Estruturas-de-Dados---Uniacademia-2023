@@ -1,0 +1,34 @@
+No que consiste este trabalho?
+
+1. Na criação de 6 grupos de tamanho igual, visando o desenvolvimento de toda a parte das
+estruturas de dados contidas nesta especificação.
+
+2. Na implementação de um software em python que seja capaz de:
+    • Ler dados de arquivos .txt de diferentes tamanhos e manipulá-los.
+Implementar e executar estruturas de dados vistas em sala de aula, como: vetores,
+matrizes, listas, pilhas, filas, algoritmos de ordenação, arvores e demais estruturas
+apresentadas, objetivando visualizar qual o tempo de execução para busca e ordenação,
+em cada uma das estruturas de dados.
+    • Definir diferentes cenários de dados para demostrar as estruturas de dados em ação, para
+busca e ordenação. Exemplos de cenários são:
+    ▪ Lista desordenada e ordenada com poucos dados.
+    ▪ Lista desordenada e ordenada com grande quantidade de dados.
+    ▪ Listas crescentes e decrescentes.
+    ▪ Etc.
+    ▪ Observação importante: a ideia aqui é criar cenários que evidenciem situações onde
+determinadas estruturas de dados sejam melhores ou piores que outras, sugerindo
+assim as melhores para serem usadas em projetos futuros.
+    ◦ Imprimir na tela relatórios que mostrem os resultados das análises feitas, bem como
+detalhes de quais cenários foram executados.
+
+3. Na apresentação do software criado, bem como sua execução mostrando as análises feitas.
+Para a apresentação, sugere-se a seguinte estrutura, para os slides.
+    • Introdução (pode-se criar um nome para o software criado)
+    • Breve sobre as estruturas implementadas.
+    • Apresentação das análises que o software faz, baseado nos cenários criados.
+
+Quais são as regras para o trabalho?
+Trabalho em grupo. Recomenda-se a formação dos grupos e envio dos nomes ao professor.
+Quais são as entregas do trabalho?
+Cada grupo deverá entregar o projeto criado + os materiais usados na apresentação, bem como
+todos os resultados gerados na pesquisa e no desenvolvimento do trabalho.
